@@ -4,7 +4,7 @@ This repository serves as a public archive of the raw research reports used in t
 ---
 
 ## Index of Publications & Reports
-Reports are organized by publication year and volume.
+Reports are organized by publication year.
 
 ### 2026
 
