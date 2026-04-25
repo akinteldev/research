@@ -18,9 +18,14 @@ Reports are organized by publication year and volume.
 ## Methodology
 The research process follows a three-stage pipeline to maintain data traceability:
 
-1.  **Data Acquisition:** Collection of primary telemetry, academic pre-prints, security disclosures, and open-source intelligence (OSINT).
-2.  **Synthesis:** Raw data is processed using `gpt-researcher` for recursive filtering, cross-referencing, and pattern identification. The resulting technical reports are archived here in their original generated state to prevent editorial bias at the source level.
-3.  **Curation:** The published books represent the final layer of human synthesis—applying strategic context and narrative structure to the synthesized data.
+#### 1. Data Acquisition
+Collection of primary telemetry, academic pre-prints, security disclosures, and open-source intelligence (OSINT).
+
+#### 2. Synthesis
+Raw data is processed using various tools for recursive filtering, cross-referencing, and pattern identification. The resulting technical reports are archived here in their original generated state to prevent editorial bias at the source level.
+
+#### 3. Curation
+The published books represent the final layer of human synthesis—applying strategic context and narrative structure to the synthesized data.
 
 ---
 
