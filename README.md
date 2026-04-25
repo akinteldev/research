@@ -7,8 +7,9 @@ This repository serves as a public archive of the raw research reports used in t
 Reports are organized by publication year and volume.
 
 ### 2026
-**The Agreeable Machine: How Artificial Intelligence Learned to Lie, Flatter, and Pass the Test** 
-An analysis of autonomous offensive operations, identity-plane exploitation, prompt injection, and the commercialization of AI-as-a-service platforms.
+
+#### The Agreeable Machine: How Artificial Intelligence Learned to Lie, Flatter, and Pass the Test
+
 - **Publication:** [Amazon](https://www.amazon.com/dp/<ID>)
 - **Archive:** [View Research Reports](./reports/2026-01-The-Agreeable-Machine/)
 
