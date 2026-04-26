@@ -10,7 +10,7 @@ Reports are organized by publication year.
 
 #### The Agreeable Machine: How Artificial Intelligence Learned to Lie, Flatter, and Pass the Test
 
-- **Publication:** [Amazon](https://www.amazon.com/dp/<ID>)
+- **Publication (Pending):** [Amazon](https://www.amazon.com/dp/<ID>)
 - **Archive:** [View Research Reports](./reports/2026-01-The-Agreeable-Machine/)
 
 ---
