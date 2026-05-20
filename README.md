@@ -1,3 +1,5 @@
+![AKAY RESEARCH](assets/akay_research.jpg)
+
 # Research Repository: Archive
 This repository serves as a public archive of the raw research reports used in the authorship of associated publications. Its purpose is to provide open access to the data and synthesis that underpin the technical claims made in the published texts.
 
