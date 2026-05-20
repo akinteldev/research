@@ -15,6 +15,11 @@ Reports are organized by publication year.
 - **Publication:** [Amazon](https://www.amazon.com/dp/B0GY2H44FF)
 - **Archive:** [View Research Reports](./reports/2026-01-The-Agreeable-Machine/)
 
+### Ransomware, Inc.: Inside the Criminal Enterprise That Industrialized Extortion
+
+- **Publication:** [Amazon (Pending)](https://www.amazon.com/dp/B0GY2H44FF)
+- **Archive:** [View Research Reports](./reports/2026-02-Ransomware-Inc/)
+
 ---
 
 ## Methodology
