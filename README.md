@@ -17,7 +17,7 @@ Reports are organized by publication year.
 
 #### Ransomware, Inc.: Inside the Criminal Enterprise That Industrialized Extortion
 
-- **Publication:** [Amazon (Pending)](https://www.amazon.com/dp/B0GY2H44FF)
+- **Publication:** [Amazon](https://www.amazon.com/dp/B0H2FNFMBS)
 - **Archive:** [View Research Reports](./reports/2026-02-Ransomware-Inc/)
 
 ---
